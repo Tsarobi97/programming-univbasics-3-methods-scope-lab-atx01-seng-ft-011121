@@ -13,15 +13,9 @@ def toadstool
   puts status
 end
 
-
 def all_phrases
-  
-  all_phrases = 
-  
-previous catch phrases = mario, link, toadstool
-
-
-puts all of the previous catch phrases 
+  puts "all of the previous catch phrases"
+  all_phrases puts "It's-me, Mario!"
+  all_phrases puts "Thank You Mario! But Our Princess Is In Another Castle!"
+  all_phrases puts "It's Dangerous To Go Alone! Take This"
 end
-
-all_phrases
