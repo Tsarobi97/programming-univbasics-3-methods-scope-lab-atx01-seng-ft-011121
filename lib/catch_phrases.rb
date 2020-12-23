@@ -15,7 +15,7 @@ end
 
 def all_phrases
   puts "all of the previous catch phrases"
-  
+  phrases = 
   
   all_phrases puts "It's-me, Mario!"
   all_phrases puts "Thank You Mario! But Our Princess Is In Another Castle!"
